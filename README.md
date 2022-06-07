@@ -1,4 +1,4 @@
-# Desafio Técnico GFT :coff
+# Desafio Técnico GFT 
 
 ## Exercício 1
 
